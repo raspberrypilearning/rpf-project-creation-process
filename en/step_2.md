@@ -32,6 +32,11 @@ New projects are created in Raspberry Pi Learning Admin.
         - Software list - add in lower case  - scratch etc
 
 
+
+![Project 1](images/Project_1.png)
+
+
+
 - **KPI list:** Select the KPI(s) that apply to this project (select/deselect multiple options with CMD or CTRL). This is used in the Looker Studio data analysis (the Pi option is used to separate out the Raspberry Pi projects as they are so popular) in this instance for KPI select **Project Completions**
 
 - **Archived:** If project no longer useful this removes it from all projects area but links to it will still exist for newsletter etc. A banner will appear to say don’t expect updates etc and it becomes non searchable on database
@@ -46,4 +51,4 @@ New projects are created in Raspberry Pi Learning Admin.
 
 
 
-
+![Project 2](images/Project_2.png)
