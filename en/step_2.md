@@ -36,7 +36,7 @@ New projects are created in Raspberry Pi Learning Admin.
 
 
 
-![Project1](images/Project_1.png)
+![Project 1](images/Project_1.png)
 
 
 
@@ -54,6 +54,6 @@ New projects are created in Raspberry Pi Learning Admin.
 
 
 
-![Project2](images/Project_2.png)
+![Project 2](images/Project_2.png)
 
 
