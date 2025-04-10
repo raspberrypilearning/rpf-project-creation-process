@@ -11,7 +11,9 @@ New projects are created in Raspberry Pi Learning Admin.
 
 
 
+
 1. Complete the following fields:
+
 - **Name:** Give your project a name, there are no rules regarding spacing, case etc in this field e.g. My New Project
 
 - **Repository Name:** This must be in lower case and contain no spaces e.g. my-new-project
@@ -28,8 +30,9 @@ New projects are created in Raspberry Pi Learning Admin.
         - Curriculum list
         - Interest list
         - Site Area list (not in use) 
-        - Hardware list - add in lower case  - sense hat etc
-        - Software list - add in lower case  - scratch etc
+        - Hardware list add in lower case
+        - Software list add in lower case
+
 
 
 
