@@ -13,10 +13,10 @@
 ### Complete the following fields:
 
 1. **Name:** Give your project a name, there are no rules regarding spacing, case etc in this field 
-- e.g. My New Project
+- e.g. **My New Project**
 
 1. **Repository Name:** This must be in lower case and contain no spaces 
-- e.g. my-new-project
+- e.g. **my-new-project**
 
 1. **Ingredient:** These are little projects that sit within a main project, only tick this box if you will be using ingredients from other projects
 
@@ -44,13 +44,16 @@
 1. **Template:** Default
 
 1. **Editor starter project:** If created in Code Editor type name in here 
-- e.g. my-new-project
+- e.g. **my-new-project**
 
 Changes or additions to the meta data can be added in later on if required.
 
 
 ![Project Fields 1](images/Project_1.png)
 ![Project Fields 2](images/Project_2.png)
+
+
+Once you  have filled in the fields above, press the 'Create Project' button to create your project.
 
 
 ## Troubleshooting
