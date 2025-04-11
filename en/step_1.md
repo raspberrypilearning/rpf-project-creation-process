@@ -37,7 +37,7 @@ Learning admin is the database where the project is created. This database turns
 ![GitHub Desktop App](images/GitHub_Desktop.png)
 
 
-## Visual Studio (VS) Code
+## Accessing Visual Studio (VS) Code
 - Download the VS Code desktop app via Kandji
 - No login details are required just open and start using
 
