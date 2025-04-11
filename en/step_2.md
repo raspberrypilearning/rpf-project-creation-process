@@ -26,11 +26,11 @@ New projects are created in Raspberry Pi Learning Admin.
 
 1. **List Fields:** These affect the dropdown options that are available in the ‘Find a Project’ bar on the Projects site
 
-        Curriculum list
-        Interest list
-        Site Area list (not in use) 
-        Hardware list add in lower case
-        Software list add in lower case
+        - Curriculum list
+        - Interest list
+        - Site Area list (not in use) 
+        - Hardware list add in lower case
+        - Software list add in lower case
 
 1. **KPI list:** Select the KPI(s) that apply to this project (select/deselect multiple options with CMD or CTRL). This is used in the Looker Studio data analysis (the Pi option is used to separate out the Raspberry Pi projects as they are so popular) in this instance for KPI select **Project Completions**
 
