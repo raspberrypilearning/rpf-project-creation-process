@@ -25,6 +25,8 @@ Learning admin is the database where the project is created. This database turns
 
 ![GitHub Signup](images/GitHub_Signup.png)
 
+![GitHub 2FA](images/GitHub_2FA.png)
+
 
 - GitHub groups to be added to by your Senior Learning Manager
     - raspberrypilearning organization
