@@ -6,7 +6,7 @@ New projects are created in Raspberry Pi Learning Admin.
 
 1. Select ‘New Project’
 
-![Learning admin panel](images/New_Project.png)
+![New Project](images/New_Project.png)
 
 
 
