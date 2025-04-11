@@ -8,9 +8,9 @@
 - Visual Studio (VS) Code desktop application (download via Kandji)
 
 
-## Setting up your Learning Admin account
-Learning admin is the database where the project is created. This database turns everything you write into HTML and that’s what the Projects Site downloads, it’s not taken from GitHub.
-- Set up your Learning Admin account using your Raspberry Pi credentials and save your login information in 1Password
+## Setting up your learning admin account
+Learning admin is the database where the project is created. This database turns everything you write into HTML and that’s what the projects site downloads, it’s not taken from GitHub.
+- Set up your learning admin account using your Raspberry Pi credentials and save your login information in 1Password
 - Be careful to rename your saved login details as ‘Learning Admin’ or something similar to avoid overwriting your other RPF logins
 
 
