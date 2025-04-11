@@ -50,9 +50,9 @@ This meta data can be added immediately or added in if needed, later on.
 ![Project Fields 2](images/Project_2.png)
 
 
-### Troubleshooting
+## Troubleshooting
 
-## Errors when creating your project
+### Errors when creating your project
 
 When you press ‘Create Project’ you may find that this doesn’t work and you get an error message.
 
