@@ -10,7 +10,7 @@ New projects are created in Raspberry Pi Learning Admin.
 ![New Project](images/New_Project.png)
 
 
-## Complete the following fields:
+### Complete the following fields:
 
 1. **Name:** Give your project a name, there are no rules regarding spacing, case etc in this field e.g. My New Project
 
@@ -43,7 +43,6 @@ New projects are created in Raspberry Pi Learning Admin.
 
 1. **Editor starter project:** If created in Code Editor type name in here e.g. my-new-project
 
-[Project 1](images/Project_1.png)
 
-![Project 2](images/Project_2.png)
-
+![Project Fields 1](images/Project_1.png)
+![Project Fields 2](images/Project_2.png)
