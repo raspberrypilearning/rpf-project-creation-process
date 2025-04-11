@@ -45,3 +45,7 @@ Learning admin is the database where the project is created. This database turns
 
 
 ![VS Code Desktop App](images/VS_Code.png)
+
+
+## What's next?
+Once you have everything set up you are ready to start creating your new project!
