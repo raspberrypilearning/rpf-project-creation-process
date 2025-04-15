@@ -5,7 +5,11 @@
 When you press ‘Create Project’ you may find that this doesn’t work and you get an error message.
 
 
+
+
 ![Error Message](images/Error_Message.png)
+
+
 
 
 This is an issue with the database and not something that you’ve done wrong. However, you now need to **delete this in the learning admin database and in GitHub** before starting the create a project process again.
@@ -20,9 +24,13 @@ This is an issue with the database and not something that you’ve done wrong. H
 - In your main GitHub account go to 'Settings' and choose 'Delete Repository'
 
 
+
+
 ![Settings](images/Settings.png)
 
 ![Delete Repository](images/Delete_Repository.png)
+
+
 
 
 ### What happens next?
@@ -32,6 +40,8 @@ This is an issue with the database and not something that you’ve done wrong. H
 - Once your project has successfully been created a notification will appear in the **#project-notifications** slack channel
 - Open the link in that channel to see the draft project template
 - Your project is now set up and you can begin to write it in VS Code!
+
+
 
 
 ![Project Notification](images/Project_Notification.png)
