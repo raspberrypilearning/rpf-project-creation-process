@@ -26,7 +26,7 @@
 
 1. **Theme:** Not really used leave as it is
 
-1. **List Fields:** These affect the dropdown options that are available in the ‘Find a Project’ bar on the Projects site
+1. **List Fields:** These affect the dropdown options that are available in the [Find a Project](https://projects.raspberrypi.org/en/projects) bar on the Projects site
 - Curriculum list
 - Interest list
 - Site Area list (not in use) 
