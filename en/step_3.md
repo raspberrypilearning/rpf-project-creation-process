@@ -1,22 +1,39 @@
-## What can you do now?
+### Errors when creating your project
 
-If you are following the [PATH NAME](https://projects.raspberrypi.org/en/pathways/PATH-NAME) pathway, you can move on to the [NEXT PROJECT/PATH NAME](https://projects.raspberrypi.org/en/projects/PROJECT-SLUG) project. In this project, you will do DESCRIPTION.
+When you press ‘Create Project’ you may find that this doesn’t work and you get an error message.
 
------- OR ---------
 
-Try our [PROJECT/PATH NAME](https://projects.raspberrypi.org/en/collections/PATH-SLUG) project pathway where you will DESCRIPTION.
+![Error Message](images/Error_Message.png)
 
---- print-only --- 
 
-![ALT TEXT](images/IMAGE-FROM-PROJECT.png)
+This is an issue with the database and not something that you’ve done wrong. However, you now need to **delete this in the learning admin database and in GitHub** before starting the create a project process again.
 
---- /print-only ---
+### How to delete your project from the database  
+- Go back to learning admin and sort by ID
+- Locate your project and press ‘Destroy’
+- The ‘Destroy’ button always asks for confirmation
+- Doing this only destroys the project in the database it doesn’t affect GitHub
 
---- no-print ---
+### How to delete your project from GitHub
+- In your main GitHub account go to 'Settings' and choose 'Delete Repository'
 
-<iframe src="https://editor.raspberrypi.org/en/embed/viewer/STARTER_PROJECT_SLUG" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-</iframe>
 
---- /no-print ---
+![Settings](images/Settings.png)
 
-Or, why not try out another [CODING_LANGUAGE](https://projects.raspberrypi.org/en/projects?software%5B%5D=CODING_LANGUAGE) project.
+![Delete Repository](images/Delete_Repository.png)
+
+
+### What happens next?
+- Once you have deleted the project from the learning admin database and GitHub, you need to begin the create a project process again
+- Continue this until the project creates successfully and you don't receive an error message
+- It may take a few times for this to work, remember to delete the failed project each time before starting again
+- Once your project has successfully been created a notification will appear in the **#project-notifications** slack channel
+- Open the link in that channel to see the draft project template
+- Your project is now set up and you can begin to write it in VS Code!
+
+
+![Project Notification](images/Project_Notification.png)
+
+
+
+
