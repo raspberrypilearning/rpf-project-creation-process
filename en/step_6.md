@@ -20,13 +20,13 @@ Once your project has been successfully created in the learning admin database y
 - In the **Filter your repositories** box search by the name of your project
 
 
-[Filter Repository](images/Filter_Repository.png)
+![Filter Repository](images/Filter_Repository.png)
 
 
 - Once found click **Clone**
 
 
-[Clone Button](images/Clone_Button.png)
+![Clone Button](images/Clone_Button.png)
 
 ## Open in Finder
 
