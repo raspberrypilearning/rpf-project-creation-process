@@ -1,3 +1,5 @@
+## Troubleshooting
+
 ### Errors when creating your project
 
 When you press ‘Create Project’ you may find that this doesn’t work and you get an error message.
