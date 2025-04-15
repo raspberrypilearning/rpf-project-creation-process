@@ -28,12 +28,13 @@ Learning admin is the database where the project is created. This database turns
 ![GitHub 2FA](images/GitHub_2FA.png)
 
 
-- GitHub groups to be added to by your Senior Learning Manager
+## GitHub groups to be added to by your Senior Learning Manager
     - raspberrypilearning organization
     - raspberrypilearning/foundation-staff
     - raspberrypilearning/learning-team
     - raspberrypilearning/content-team
-- Download the GitHub desktop app via Kandji
+
+In addition to the above, download the GitHub desktop app via Kandji.
 
 
 ![GitHub Desktop App](images/GitHub_Desktop.png)

@@ -8,7 +8,7 @@ When you press **‘Create Project’** you may find that this doesn’t work an
 ![Error Message](images/Error_Message.png)
 
 
-This is an issue with the database and not something that you’ve done wrong. However, you now need to *delete this in the learning admin database and in GitHub* before starting the create a project process again.
+This is an issue with the database and not something that you’ve done wrong. However, you now need to **delete this in the learning admin database and in GitHub** before starting the create a project process again.
 
 ### How to delete your project from the database  
 - Go back to learning admin and click on ID to sort the list and get the newest created projects at the top
@@ -36,4 +36,3 @@ This is an issue with the database and not something that you’ve done wrong. H
 
 
 ![Delete Repository](images/Delete_Repository.png)
-
