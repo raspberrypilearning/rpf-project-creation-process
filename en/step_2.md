@@ -26,7 +26,7 @@
 
 1. **Theme:** Not really used leave as it is
 
-1. **List Fields:** These affect the dropdown options that are available in the [Find a Project](https://projects.raspberrypi.org/en/projects) bar on the Projects site
+1. **List Fields:** These affect the dropdown options that are available in the **[Find a Project](https://projects.raspberrypi.org/en/projects)** bar on the Projects site
 - Curriculum list
 - Interest list
 - Site Area list (not in use) 
@@ -35,7 +35,7 @@
 
 1. **KPI list:** Select the KPIs that apply to this project, select/deselect multiple options with CMD or CTRL. This is used in the Looker Studio data analysis. The Pi option is used to separate out the Raspberry Pi projects as they are so popular. In this instance, for KPI select **Project Completions**
 
-1. **Archived:** If a project is no longer useful this removes it from the 'All Projects' area but links to it will still exist for newsletters etc. A banner will appear to say don’t expect updates on this project and it becomes non searchable on the database
+1. **Archived:** If a project is no longer useful this removes it from the **Find a Project** area but links to it will still exist for newsletters etc. A banner will appear to say don’t expect updates on this project and it becomes non searchable on the database
 
 1. **Badge template:** Looks up graphics for badges
 
