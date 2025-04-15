@@ -21,8 +21,6 @@
 
 ### Images
 - Add to en-image file or drag and drop to images on left hand side of VS Code
-- ![alt text](images/catimage.jpg)
-- ![learningadmin](images/Learning_Admin.png)
 - Give images simple names, no spaces always use a hyphen or underscore
 - To change the banner image, can name chosen image banner.png and drag and drop into images folder on left hand side, this will change the banner image to the one you’ve added
 
