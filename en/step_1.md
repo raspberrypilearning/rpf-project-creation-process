@@ -8,7 +8,7 @@
 - **Optional** GitHub desktop application (download via Kandji)
 
 
---- task ---
+---- task ---
 
 ## Setting up your Learning Admin account
 Learning Admin is the database where the project is created. This database turns everything you write into HTML and that’s what the projects site downloads, it’s not taken from GitHub.
@@ -22,7 +22,7 @@ Learning Admin is the database where the project is created. This database turns
 --- task ---
 
 
---- task ---
+---- task ---
 
 ## Setting up your GitHub account
 - Sign up for [GitHub](https://github.com/) and log in
@@ -37,7 +37,7 @@ Learning Admin is the database where the project is created. This database turns
 --- task ---
 
 
---- task ---
+---- task ---
 
 ## GitHub groups to be added to by your Senior Learning Manager
 - raspberrypilearning organization
@@ -53,7 +53,7 @@ You can download the GitHub desktop app via Kandji if you wish, this is optional
 --- task ---
 
 
---- task ---
+---- task ---
 
 ## Accessing Visual Studio (VS) Code
 - Download the VS Code desktop app via Kandji
