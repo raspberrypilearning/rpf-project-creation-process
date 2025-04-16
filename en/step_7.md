@@ -32,7 +32,7 @@
 - Add to en-image file in Finder or drag and drop to images folder on the left hand side of VS Code
 - Give images simple names with no spaces, always use a hyphen or an underscore
 - In the square brackets enter the alt text 
-- In the round brackets enter images/ then select the image you have added from the dropdown options
+- In the round brackets enter **images/** then select the image you have added from the dropdown options
 - To change the main banner image name your chosen image **banner.png** and drag and drop it into the images folder, this will change the banner image to the one that you’ve added
 
 
@@ -42,9 +42,12 @@
 
 
 ### Tables
+- Use colons to align columns
+- Use at least 3 dashes to separate each header cell
+- | = pipe key, use this key to create outer lines of the table
 
-## A table
-| = pipe key
+Example below:
+
 
 | Header 1 | Header 2 | Header 3 |
 
@@ -53,15 +56,10 @@
 | hello | hi | bye |
 
 
-### Internal Links
-- Can be written like this: [step 2] (1) but the link doesn’t work until project is pushed to master
-
-
-### Tasks
-Use hyphens        - - - task - - -
-		This is a task
-
-Or 		- - - /task - - -
+### Internal links
+- Add the name you want to show into square brackets
+- Add the step you want to link to in the round brackets
+- Internal links won't actually work until project has been pushed to master
 
 
 ### To create new step
