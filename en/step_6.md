@@ -79,8 +79,6 @@ Once your project has been successfully created in the learning admin database y
 
 ![Summary](images/Summary.png)
 
-![Commit Draft](images/Commit_Draft.png)
-
 
 - Next press **Push origin**
 
@@ -101,4 +99,4 @@ Once your project has been successfully created in the learning admin database y
 
 
 - You can now continue to build your project this way using **Markdown**
-- See the next page for some basic tips and advice to get you started
+- See the next page for some basic tips and advice to get you started 

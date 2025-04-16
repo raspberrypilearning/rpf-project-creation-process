@@ -1,34 +1,39 @@
 ## Basic markdown tips
 
+**Markdown** is a programming language that doesn’t require knowledge of HTML.
 
-**Markdown** - a programming language that doesn’t require knowledge of HTML.
+### Saving
+- Always remember to save using **Command S**
+- A circle over one of the tabs in VS Code means you haven’t saved it yet
+- Make sure you use **Command S** in each of the tabs that you see a circle otherwise your changes won't be pushed to your draft
+
+
+![Save Circle](images/Save_Circle.png)
 
 
 ### Headers
 
-# 	Heading 1
-## 	Heading 2
-###	Heading 3
-
-- Always double hash or triple
-- Always Command S to save work
-- Only use level 2 or 3 headings for projects at the Raspberry Pi Foundation
+- One hashtag will create 	# Heading 1
+- Two will create 			## Heading 2
+- Three will create 		### Heading 3
+- We only use level 2 or 3 headings for projects at the Raspberry Pi Foundation
 
 
 ### Bullets
-- Hyphen - for bullets or 1. for numbers it doesn’t recognise numbers so can always put 1. and it will number in order anyway 1, 2, 3 etc
+- Use hyphen - for bullets 
+- Use 1. for numbers, you can always put 1. and it will number in order anyway 1. 2. 3. as it doen't recognise numbers!
 
 
 ### Images
-- Add to en-image file or drag and drop to images on left hand side of VS Code
-- Give images simple names, no spaces always use a hyphen or underscore
-- To change the banner image, can name chosen image banner.png and drag and drop into images folder on left hand side, this will change the banner image to the one you’ve added
+- Add to en-image file in Funder or drag and drop to images folder on the left hand side of VS Code
+- Give images simple names with no spaces, always use a hyphen or an underscore
+- To change the main banner image name your chosen image **banner.png** and drag and drop it into the images folder, this will change the banner image to the one that you’ve added
 
 
 ### Links 
-- [GitHub](https://github.com/)
-- Square brackets is text you want to show, round brackets contains the http url
-- When committing and pushing to draft in the GitHub desktop add a summary to say what you’ve added/changed
+- Example - [GitHub](https://github.com/)
+- In the square brackets enter the text you want to show
+- In the round brackets enter the http url
 
 
 ### Tables
@@ -44,7 +49,7 @@
 
 
 ### Internal Links
-- [step 2] (1) doesn’t work until pushed to master
+- Can be written like this: [step 2] (1) but the link doesn’t work until project is pushed to master
 
 
 ### Tasks
@@ -54,14 +59,9 @@ Use hyphens        - - - task - - -
 Or 		- - - /task - - -
 
 
-### Saving
-- Use Command S
-- A dot/circle on one of the tabs in VS Code means you haven’t saved it yet
-
-
-### Create new step
+### To create new step
 - In VS Code go to File > New File add ‘step_4.md’ for example and press enter
-- Create new folder in the en directory
+- Creates new folder in the en directory
 
 
 ![Create Step](images/Create_Step.png)
