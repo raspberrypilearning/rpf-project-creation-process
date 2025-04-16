@@ -4,29 +4,40 @@
 ### You will need access to the following:
 - [Raspberry Pi Foundation Learning Admin](https://learning-admin.raspberrypi.org/admin/projects)
 - [GitHub](https://github.com/) 
-- GitHub desktop application (download via Kandji)
 - Visual Studio (VS) Code desktop application (download via Kandji)
+- **Optional** GitHub desktop application (download via Kandji)
 
 
-## Setting up your learning admin account
-Learning admin is the database where the project is created. This database turns everything you write into HTML and that’s what the projects site downloads, it’s not taken from GitHub.
-- Set up your learning admin account using your Raspberry Pi credentials and save your login information in 1Password
-- Be careful to rename your saved login details as ‘Learning Admin’ or something similar to avoid overwriting your other RPF logins
+--- task ---
+
+## Setting up your Learning Admin account
+Learning Admin is the database where the project is created. This database turns everything you write into HTML and that’s what the projects site downloads, it’s not taken from GitHub.
+- You need to be added to Learning Admin by an administrator, your Senior Learning Manager or another CCP Team Member will be able to assist you
+- Set up your account using your Raspberry Pi email address and create a password 
+- Save your login information in 1Password and be careful to rename your login details as ‘Learning Admin’ or something similar to avoid overwriting other RPF logins
 
 
 ![Learning Admin Panel](images/Learning_Admin.png)
 
+--- task ---
+
+
+--- task ---
 
 ## Setting up your GitHub account
-- Sign up for GitHub and log in
+- Sign up for [GitHub](https://github.com/) and log in
 - You will be asked for two factor authentication, retrieve your code on the Google Authenticator app (you can download this to your phone and login with your Raspberry Pi credentials)
-- Once you are logged in to GitHub make sure you save a copy of your recovery codes
+- Once you are logged in to GitHub make sure you save a copy of your recovery codes on your Google Drive
 
 
 ![GitHub Signup](images/GitHub_Signup.png)
 
 ![GitHub 2FA](images/GitHub_2FA.png)
 
+--- task ---
+
+
+--- task ---
 
 ## GitHub groups to be added to by your Senior Learning Manager
 - raspberrypilearning organization
@@ -34,11 +45,15 @@ Learning admin is the database where the project is created. This database turns
 - raspberrypilearning/learning-team
 - raspberrypilearning/content-team
 
-In addition to the above, download the GitHub desktop app via Kandji.
+You can download the GitHub desktop app via Kandji if you wish, this is optional. 
 
 
 ![GitHub Desktop App](images/GitHub_Desktop.png)
 
+--- task ---
+
+
+--- task ---
 
 ## Accessing Visual Studio (VS) Code
 - Download the VS Code desktop app via Kandji
@@ -47,6 +62,7 @@ In addition to the above, download the GitHub desktop app via Kandji.
 
 ![VS Code Desktop App](images/VS_Code.png)
 
+--- task ---
 
-## Next steps
+### Next steps
 Once you have everything set up you are ready to start creating your new project!
