@@ -35,13 +35,14 @@ Learning Admin is the database where the project is created. This database turns
 ![GitHub 2FA](images/GitHub_2FA.png)
 
 
-### GitHub groups to be added to by your Senior Learning Manager:
+### GitHub groups to be added to by your Senior Learning Manager
 - **raspberrypilearning** organization
 - raspberrypilearning/foundation-staff
 - raspberrypilearning/learning-team
 - raspberrypilearning/content-team
 
-You can also download the GitHub desktop app via Kandji if you wish, this is optional.
+You can also download the GitHub desktop app via Kandji if you wish.
+This is optional.
 
 
 ![GitHub Desktop App](images/GitHub_Desktop.png)
@@ -53,7 +54,7 @@ You can also download the GitHub desktop app via Kandji if you wish, this is opt
 
 ### Access Visual Studio (VS) Code
 - Download the VS Code desktop app via Kandji
-- No login details are required just open the app and you're ready to start using it
+- No login details are required just open the app and it's ready to use
 
 
 ![VS Code Desktop App](images/VS_Code.png)
@@ -62,4 +63,4 @@ You can also download the GitHub desktop app via Kandji if you wish, this is opt
 
 
 ## Next steps
-Once you have everything set up you are ready to start creating your new project!
+Once you have everything set up you're ready to start creating your new project!
