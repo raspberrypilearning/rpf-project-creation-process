@@ -30,7 +30,12 @@ Once your project has been successfully created in the learning admin database y
 
 ## Open in Finder
 
-- Open **Finder** on your Mac [Finder_Icon](images/Finder_Icon.png)
+- Open **Finder** on your Mac 
+
+
+![Finder Icon](images/Finder_Icon.png)
+
+
 - In **Documents** you should see a GitHub folder
 - A new subfolder should have been created in the name of your project in the GitHub folder
 
