@@ -1,8 +1,8 @@
---- collapse ---
-
 ## Troubleshooting errors
 
 ### Errors when creating your project
+
+--- collapse ---
 
 When you press **‘Create Project’** you may find that this doesn’t work and you get an error message.
 
