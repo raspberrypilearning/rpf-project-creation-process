@@ -3,30 +3,49 @@
 Once your project has been successfully created in the learning admin database you can begin to create the project using VS Code.
 
 
-## Open GitHub Desktop
+--- task ---
+
+### Open GitHub desktop
 
 - In the top left hand corner go to **Current Repository** and click on the drop down arrow 
 
 
 ![GitHub Respository](images/GitHub_Repository.png)
 
+--- /task ---
+
+
+--- task ---
 
 - Go to **Add** and using the drop down arrow select **Clone Repository**
 
 
 ![Clone Repository](images/Clone_Repository.png)
 
+--- /task ---
+
+
+--- task ---
 
 - In the **Filter your repositories** box search by the name of your project
 
 
 ![Filter Repository](images/Filter_Repository.png)
 
+--- /task ---
+
+
+--- task ---
 
 - Once found click **Clone**
 
 
 ![Clone Button](images/Clone_Button.png)
+
+--- /task ---
+
+
+--- task ---
 
 ## Open in Finder
 
@@ -35,6 +54,10 @@ Once your project has been successfully created in the learning admin database y
 
 ![Finder Icon](images/Finder_Icon.png)
 
+--- /task ---
+
+
+--- task ---
 
 - In **Documents** you should see a GitHub folder
 - A new subfolder should have been created in the name of your project in the GitHub folder
@@ -42,12 +65,20 @@ Once your project has been successfully created in the learning admin database y
 
 ![Documents Folder](images/Documents_Folder.png)
 
+--- /task ---
+
+
+--- task ---
 
 - Click inside this and you will see the folder directory for your project
 
 
 ![Folder Directory](images/Folder_Directory.png)
 
+--- /task ---
+
+
+--- task ---
 
 ## Go Back to GitHub Desktop
 - Locate the **Current Branch** drop down arrow in the menu at the top and switch to **draft branch**
@@ -57,6 +88,10 @@ Once your project has been successfully created in the learning admin database y
 
 ![Draft Branch](images/Draft_Branch.png)
 
+--- /task ---
+
+
+--- task ---
 
 ## Open VS Code
 - Open **en folder** on left hand side
@@ -67,6 +102,10 @@ Once your project has been successfully created in the learning admin database y
 
 ![Steps](images/Steps.png)
 
+--- /task ---
+
+
+--- task ---
 
 - Go to the meta.yml tab (steps have to be in meta yml)
 - Change the title to the title of your project, this doesn't have to be in lower case and should be how you want it to be displayed
@@ -75,6 +114,10 @@ Once your project has been successfully created in the learning admin database y
 
 ![Meta yml](images/Meta_yml.png)
 
+--- /task ---
+
+
+--- task ---
 
 - Go back to GitHub desktop to see the change
 - You may be asked for a summary of the changes you have made, complete this then you will be able to press **Commit to draft**
@@ -90,6 +133,10 @@ Once your project has been successfully created in the learning admin database y
 
 ![Push Origin](images/Push_Origin.png)
 
+--- /task ---
+
+
+--- task ---
 
 - Go to slack to **#project-notifications** wait for the notification to come through and the build to finish
 
@@ -101,6 +148,8 @@ Once your project has been successfully created in the learning admin database y
 
 
 ![Project Snapshot](images/Project_Snapshot.png)
+
+--- /task ---
 
 
 - You can now continue to build your project this way using **Markdown**
