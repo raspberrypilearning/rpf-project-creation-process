@@ -1,10 +1,4 @@
---- collapse ---
-
----
-
 ## Troubleshooting errors
-
----
 
 ### Errors when creating your project
 
@@ -42,5 +36,3 @@ This is an issue with the database and not something that you’ve done wrong. H
 
 
 ![Delete Repository](images/Delete_Repository.png)
-
---- /collapse ---
