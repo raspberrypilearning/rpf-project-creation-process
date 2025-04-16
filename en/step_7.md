@@ -1,4 +1,4 @@
-## Basic markdown tips
+## Markdown tips
 
 **Markdown** is a programming language that doesn’t require knowledge of HTML.
 
