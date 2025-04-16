@@ -14,7 +14,7 @@
 ### Headers
 
 One hash `# title` will create a level 1 header
-# Heading 1
+# title
 
 - Two will create 			
 	## Heading 2
