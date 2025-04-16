@@ -45,12 +45,16 @@ Once your project has been successfully created in the learning admin database y
 
 
 STILL EDITING SECTION BELOW
-## Back to GitHub Desktop
-- Current Branch - drop down arrow - switch to origin/draft branch
-- We don’t work on the Master branch until 100% sure all fine, so work on the draft branch, this changes the folder in Finder
+## Go Back to GitHub Desktop
+- Locate the **Current Branch** drop down arrow in the menu at the top and switch to **draft branch**
+- Always work on the draft branch at first not the master
+- Switching to the draft branch changes the folder in Finder
 
 
-## Open in VS Code
+![Draft Branch](images/Draft_Branch.png)
+
+
+## Open VS Code
 - Open en folder on left hand side (here you will see step 1, step 2, step 3 etc)
 - Go to meta yml (steps have to be in meta yml)
 - Change the title to the title of your project - this doesn't have to be lower case, should be how you want it to be displayed
@@ -58,4 +62,4 @@ STILL EDITING SECTION BELOW
 - Go to GitHub desktop to see the change
 - Commit to draft
 - Push origin
-- Slack #project-notifications, open link to see change
+- Go to slack **#project-notifications** and open link to see your changes
