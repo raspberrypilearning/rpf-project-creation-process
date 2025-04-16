@@ -65,13 +65,40 @@ Once your project has been successfully created in the learning admin database y
 
 - Go to the meta.yml tab (steps have to be in meta yml)
 - Change the title to the title of your project, this doesn't have to be in lower case and should be how you want it to be displayed
-- Command S to save
+- Use **Command S** to save your edits 
 
 
 ![Meta yml](images/Meta_yml.png)
 
 
-- Go to GitHub desktop to see the change
-- Commit to draft
-- Push origin
-- Go to slack **#project-notifications** and open link to see your changes
+- Go back to GitHub desktop to see the change
+- You may be asked for a summary of the changes you have made, complete this then you will be able to press **Commit to draft**
+
+
+![Empty Summary](images/Empty_Summary.png)
+
+![Summary](images/Summary.png)
+
+![Commit Draft](images/Commit_Draft.png)
+
+
+- Next press **Push origin**
+
+
+![Push Origin](images/Push_Origin.png)
+
+
+- Go to slack to **#project-notifications** wait for the notification to come through and the build to finish
+
+
+![Notification 2](images/Notification_2.png)
+
+
+- Open the link to see your project begin to take shape!
+
+
+![Project Snapshot](images/Project_Snapshot.png)
+
+
+- You can now continue to build your project this way using **Markdown**
+- See the next page for some basic tips and advice to get you started
