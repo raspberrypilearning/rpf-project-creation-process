@@ -25,8 +25,8 @@ Learning Admin is the database where the project is created. This database turns
 --- task ---
 
 ### Set up your GitHub account
-- Sign up for [GitHub](https://github.com/) and log in
-- You will be asked for two factor authentication, retrieve your code on the Google Authenticator app (you can download this to your phone and login with your Raspberry Pi credentials)
+- Sign up for [GitHub](https://github.com/) using your RPF email address and log in
+- You will be asked for two factor authentication, retrieve your code on the Google Authenticator app - you can download this to your phone and login with your Raspberry Pi credentials
 - Once you are logged in to GitHub make sure you save a copy of your recovery codes on your Google Drive
 
 
@@ -35,13 +35,13 @@ Learning Admin is the database where the project is created. This database turns
 ![GitHub 2FA](images/GitHub_2FA.png)
 
 
-**GitHub groups to be added to by your Senior Learning Manager**
-- raspberrypilearning organization
+### GitHub groups to be added to by your Senior Learning Manager:
+- **raspberrypilearning** organization
 - raspberrypilearning/foundation-staff
 - raspberrypilearning/learning-team
 - raspberrypilearning/content-team
 
-**You can download the GitHub desktop app via Kandji if you wish, this is optional** 
+You can also download the GitHub desktop app via Kandji if you wish, this is optional.
 
 
 ![GitHub Desktop App](images/GitHub_Desktop.png)
