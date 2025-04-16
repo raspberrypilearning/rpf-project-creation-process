@@ -59,7 +59,7 @@ Changes or additions to the meta data can be added in later on if required.
 
 Once you  have filled in the fields above, press the **'Create Project'** button to create your project!
 
-## Troubleshooting errors
+
 --- collapse ---
 
 ### Errors when creating your project
