@@ -13,8 +13,9 @@
 
 ### Headers
 
-- One hashtag will create 	
-	# Heading 1
+One hash `# title` will create a level 1 header
+# Heading 1
+
 - Two will create 			
 	## Heading 2
 - Three will create 		
