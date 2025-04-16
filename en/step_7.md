@@ -69,3 +69,7 @@ Example below:
 
 
 ![Create Step](images/Create_Step.png)
+
+### Images
+
+Add images using `![alt text for image](path/of/image)`
