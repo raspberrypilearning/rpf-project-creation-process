@@ -44,7 +44,6 @@ Once your project has been successfully created in the learning admin database y
 ![Folder Directory](images/Folder_Directory.png)
 
 
-STILL EDITING SECTION BELOW
 ## Go Back to GitHub Desktop
 - Locate the **Current Branch** drop down arrow in the menu at the top and switch to **draft branch**
 - Always work on the draft branch at first not the master
@@ -55,10 +54,23 @@ STILL EDITING SECTION BELOW
 
 
 ## Open VS Code
-- Open en folder on left hand side (here you will see step 1, step 2, step 3 etc)
-- Go to meta yml (steps have to be in meta yml)
-- Change the title to the title of your project - this doesn't have to be lower case, should be how you want it to be displayed
+- Open **en folder** on left hand side
+- Here you will see step_1.md, step_2.md, step_3.md 
+
+
+![En Folder](images/En_folder.png)
+
+![Steps](images/Steps.png)
+
+
+- Go to the meta.yml tab (steps have to be in meta yml)
+- Change the title to the title of your project, this doesn't have to be in lower case and should be how you want it to be displayed
 - Command S to save
+
+
+![Meta yml](images/Meta_yml.png)
+
+
 - Go to GitHub desktop to see the change
 - Commit to draft
 - Push origin
