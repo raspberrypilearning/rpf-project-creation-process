@@ -60,7 +60,7 @@ Changes or additions to the meta data can be added in later on if required.
 Once you  have filled in the fields above, press the **'Create Project'** button to create your project!
 
 
----- collapse ---
+--- collapse ---
 
 ---
 
@@ -109,7 +109,7 @@ This is an issue with the database and not something that you’ve done wrong. H
 --- /collapse ---
 
 
----- collapse ---
+--- collapse ---
 
 ---
 
