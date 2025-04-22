@@ -58,3 +58,50 @@ Changes or additions to the meta data can be added in later on if required.
 
 
 Once you  have filled in the fields above, press the **'Create Project'** button to create your project!
+
+
+## Troubleshooting errors
+
+### Errors when creating your project
+
+When you press **‘Create Project’** you may find that this doesn’t work and you get an error message.
+
+
+![Error Message](images/Error_Message.png)
+
+
+This is an issue with the database and not something that you’ve done wrong. However, you now need to **delete this in the learning admin database and in GitHub** before starting the create a project process again.
+
+### How to delete your project from the database  
+- Go back to learning admin and click on ID to sort the list and get the newest created projects at the top
+
+
+![Project ID](images/Projects_ID.png)
+
+
+- Locate your project and press the red **‘Destroy’** button
+- The ‘Destroy’ button always asks for confirmation
+- Doing this only destroys the project in the database it doesn’t affect GitHub
+
+
+![Destroy Button](images/Destroy_Button.png)
+
+
+### How to delete your project from GitHub
+- In your main GitHub account go to 'Settings'
+
+
+![Settings](images/Settings.png)
+
+
+- Choose 'Delete Repository'
+
+
+![Delete Repository](images/Delete_Repository.png) 
+
+
+## What happens next?
+
+- Once you have deleted the project from the learning admin database and GitHub, you need to begin the [create a project process again](step_2.md)
+- Continue this until the project creates successfully and you don't receive an error message
+- It may take a few times for this to work, remember to delete the failed project each time before starting again
