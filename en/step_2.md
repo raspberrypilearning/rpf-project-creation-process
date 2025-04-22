@@ -60,9 +60,8 @@ Changes or additions to the meta data can be added in later on if required.
 Once you  have filled in the fields above, press the **'Create Project'** button to create your project!
 
 
---- collapse ---
-
 ## Troubleshooting errors
+--- collapse ---
 
 ### Errors when creating your project
 
@@ -104,9 +103,8 @@ This is an issue with the database and not something that you’ve done wrong. H
 --- /collapse ---
 
 
---- collapse ---
-
 ## What happens next?
+--- collapse ---
 
 - Once you have deleted the project from the learning admin database and GitHub, you need to begin the [create a project process again](step_2.md)
 - Continue this until the project creates successfully and you don't receive an error message
