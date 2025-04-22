@@ -62,11 +62,7 @@ Once you  have filled in the fields above, press the **'Create Project'** button
 
 --- collapse ---
 
----
-
 ## Troubleshooting errors
-
----
 
 
 ### Errors when creating your project
@@ -111,11 +107,8 @@ This is an issue with the database and not something that you’ve done wrong. H
 
 --- collapse ---
 
----
-
 ## What happens next?
 
----
 
 - Once you have deleted the project from the learning admin database and GitHub, you need to begin the [create a project process again](step_2.md)
 - Continue this until the project creates successfully and you don't receive an error message
