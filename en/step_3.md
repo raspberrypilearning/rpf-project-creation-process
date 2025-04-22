@@ -35,4 +35,4 @@ This is an issue with the database and not something that you’ve done wrong. H
 - Choose 'Delete Repository'
 
 
-![Delete Repository](images/Delete_Repository.png)
+![Delete Repository](images/Delete_Repository.png) 
