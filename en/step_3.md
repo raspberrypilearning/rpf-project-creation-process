@@ -6,3 +6,13 @@
 
 
 ![Project Notification](images/Project_Notification.png)
+
+
+## Error messages
+
+- There are **rate limits** for GitHub and Amazon that can occasionally stop the build process
+- You will be notified at what time the rate limit is refreshed
+
+
+![Rate Limits Notification](images/Rate_Limits.png)
+
