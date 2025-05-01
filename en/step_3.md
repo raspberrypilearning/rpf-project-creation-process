@@ -8,11 +8,17 @@
 ![Project Notification](images/Project_Notification.png)
 
 
-## Error messages
+## Project failed to build
+
+- If there is an error within the project it will fail to build and you will be notified in the **#project-notifications** slack channel
+
+![Project Failed To Build](images/Build_Fail.png)
+
+
+## Rate limits
 
 - There are **rate limits** for GitHub and Amazon that can occasionally stop the build process
 - You will be notified at what time the rate limit is refreshed
-
 
 ![Rate Limits Notification](images/Rate_Limits.png)
 
