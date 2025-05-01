@@ -1,6 +1,8 @@
 ## Project notifications
 
-Every time you build a project or make updates you will be notified in the **#project-notifications** slack channel. Below are some examples of messages you may receive, what they mean and actions to take.
+Every time you build a project or make updates you will be notified in the **#project-notifications** slack channel. 
+
+Below are some examples of messages you may receive, what they mean and actions to take.
 
 
 --- task ---
