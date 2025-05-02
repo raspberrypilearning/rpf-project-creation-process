@@ -2,6 +2,8 @@
 
 Every time you build a project or make updates you will be notified in the **#project-notifications** slack channel. 
 
+Some projects can take time to build, especially if there are a number of translations of the project. The more translations the longer it takes, so if your notification takes some time to appear this is likley the reason why.
+
 Below are some examples of messages you may receive, what they mean and actions to take.
 
 
