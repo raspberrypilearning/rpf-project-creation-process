@@ -26,12 +26,21 @@ Below are some examples of messages you may receive, what they mean and actions 
 
 ![Project Failed To Build](images/Build_Fail.png)
 
+- On the notification click the **check the issues** link
+- This will open the issue in GitHub where you can find more detail and see what needs to be fixed
+- Once you have fixed the problem, close the issue in GitHub to clear it
+
+![GitHub Error Message](images/GitHub_Error.png)
+
+![Close Issue Button](images/Close_Issue.png)
+
+
 --- /task ---
 
 
 --- task ---
 
-### Rate limits
+### Rate limits exceeded
 
 - There are **rate limits** for GitHub and Amazon that can occasionally stop the build process
 - You will be notified at what time the rate limit is refreshed
