@@ -7,17 +7,17 @@
 
 ### Headers
 
-One hash `# title` will create a level 1 header
+- One hash `# Title` will create a level 1 header
 # Title
 
-Two will create `## title` will create a level 2 header		
+- Two will create `## Title` will create a level 2 header		
 ## Title
 
-Three will create `### title` will create a level 3 header			
+- Three will create `### Title` will create a level 3 header			
 
 ### Title
 
-We only use level 2 or 3 headings for projects at the Raspberry Pi Foundation
+- We only use level 2 or 3 headings for projects at the Raspberry Pi Foundation
 
 --- /task ---
 
