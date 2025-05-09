@@ -95,4 +95,16 @@ Open the link to see your project begin to take shape!
 --- /task ---
 
 
+--- task ---
+
+### Saving your work
+- Always remember to save using **Command S**
+- A circle over one of the tabs in VS Code means you haven’t saved it yet
+- Make sure you use **Command S** in each of the tabs that you see a circle otherwise your changes won't be pushed to your draft
+
+
+![Save Circle](images/Save_Circle.png)
+
+--- /task ---
+
 You can now continue to build your project this way using **Markdown**. See the next page for some basic tips and advice to get you started! 
