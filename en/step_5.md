@@ -2,15 +2,6 @@
 
 **Markdown** is a programming language that doesn’t require knowledge of HTML.
 
-### Saving
-- Always remember to save using **Command S**
-- A circle over one of the tabs in VS Code means you haven’t saved it yet
-- Make sure you use **Command S** in each of the tabs that you see a circle otherwise your changes won't be pushed to your draft
-
-
-![Save Circle](images/Save_Circle.png)
-
-
 ### Headers
 
 One hash `# title` will create a level 1 header
