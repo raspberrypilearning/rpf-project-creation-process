@@ -107,4 +107,14 @@ Open the link to see your project begin to take shape!
 
 --- /task ---
 
+
+--- task ---
+
+### Overall Structure
+- Each project is split into **steps**, with each step in its own markdown file: **step_1.md, step_2.md**, etc.
+- The first step in each project is titled
+
+--- /task ---
+
+
 You can now continue to build your project this way using **Markdown**. See the next page for some basic tips and advice to get you started! 

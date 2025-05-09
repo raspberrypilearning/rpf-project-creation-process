@@ -32,7 +32,15 @@ We only use level 2 or 3 headings for projects at the Raspberry Pi Foundation.
 
 --- task ---
 
-### Bullets
+### Text Emphasis
+Bold
+
+--- /task ---
+
+
+--- task ---
+
+### Bullets and Lists
 Use hyphen - for bullets 
 Use 1. for numbers, you can always put 1. and it will number in order anyway 1. 2. 3. as it doesn't recognise numbers!
 
