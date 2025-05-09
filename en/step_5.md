@@ -7,17 +7,17 @@
 
 ### Headers
 
-- One hash `# Title` will create a level 1 header
+One hash `# Title` will create a level 1 header
 # Title
 
-- Two will create `## Title` will create a level 2 header		
+Two will create `## Title` will create a level 2 header		
 ## Title
 
-- Three will create `### Title` will create a level 3 header			
+Three will create `### Title` will create a level 3 header			
 
 ### Title
 
-- We only use level 2 or 3 headings for projects at the Raspberry Pi Foundation
+We only use level 2 or 3 headings for projects at the Raspberry Pi Foundation
 
 --- /task ---
 
@@ -25,8 +25,8 @@
 --- task ---
 
 ### Bullets
-- Use hyphen - for bullets 
-- Use 1. for numbers, you can always put 1. and it will number in order anyway 1. 2. 3. as it doesn't recognise numbers!
+Use hyphen - for bullets 
+Use 1. for numbers, you can always put 1. and it will number in order anyway 1. 2. 3. as it doesn't recognise numbers!
 
 --- /task ---
 
@@ -39,6 +39,7 @@
 - In the square brackets enter the alt text 
 - In the round brackets enter **images/** then select the image you have added from the dropdown options
 - To change the main banner image name your chosen image **banner.png** and drag and drop it into the images folder, this will change the banner image to the one that you’ve added
+- Add images using `![alt text for image](path/of/image)`
 
 --- /task ---
 
@@ -89,14 +90,5 @@ Example below:
 
 
 ![Create Step](images/Create_Step.png)
-
---- /task ---
-
-
---- task ---
-
-### Images
-
-Add images using `![alt text for image](path/of/image)`
 
 --- /task ---
