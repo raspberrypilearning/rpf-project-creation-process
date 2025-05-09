@@ -97,7 +97,7 @@ Open the link to see your project begin to take shape!
 
 --- task ---
 
-### Saving your work
+### Saving your project
 - Always remember to save using **Command S**
 - A circle over one of the tabs in VS Code means you haven’t saved it yet
 - Make sure you use **Command S** in each of the tabs that you see a circle otherwise your changes won't be pushed to your draft
