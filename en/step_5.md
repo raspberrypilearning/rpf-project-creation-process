@@ -5,7 +5,7 @@
 
 --- task ---
 
-### Headers
+### Headings
 
 One hash `# Title` will create a level 1 header
 # Title
@@ -17,7 +17,15 @@ Three will create `### Title` will create a level 3 header
 
 ### Title
 
-We only use level 2 or 3 headings for projects at the Raspberry Pi Foundation
+We only use level 2 or 3 headings for projects at the Raspberry Pi Foundation.
+
+`## You will make` — Always appears at the top of step_1.md, describing the project goal in plain language.
+
+
+`## Introduction`, `## What you will learn`, etc. — Use ## for main sections.
+
+
+`### and ####` — For subsections, such as activity titles or side explanations.
 
 --- /task ---
 
