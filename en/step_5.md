@@ -1,7 +1,6 @@
 ## Markdown tips
 
-**Markdown** is a programming language that doesn’t require knowledge of HTML and makes it easier to format your text.
-Below are a few tips to get you started and to understand the Code Club Projects use and style of markdown.
+**Markdown** is a programming language that doesn’t require knowledge of HTML and makes it easier to format your text. Here are a few tips to get you started and to understand the Code Club Projects use and style of markdown.
 
 
 --- task ---
@@ -35,8 +34,8 @@ We only use level 2 or 3 headings for projects at the Raspberry Pi Foundation.
 
 ### Text Emphasis
 
-Use ** to bold your text `**Bold**`
-Use * or _ for italics `*Italics*`
+- Use ** to bold your text
+- Use * or _ for italics 
 
 **Bold** is used:
 - For **menu items**, **button labels**, and **user interface terms** (e.g., **Code**, **Costumes**, **Click**, **Choose a Sprite**).
