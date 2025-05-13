@@ -125,6 +125,38 @@ print('Hello World!')
 --- /task ---
 
 
+## Pedagogical Structure
+
+--- task ---
+
+Each step typically includes:
+
+1. Goal introduction
+- `## You will make:` One sentence overview in step_1.md
+
+1. Demonstration
+- Visual or interactive example in a `--- task ---` block
+
+1. Instructions
+- Clear, sequential instructions
+- Refer to Scratch interface terms in bold
+- Highlight Scratch blocks using inline styling
+
+1. Mini challenges
+- Ask exploratory questions:
+
+ What do you think will happen if...?
+ Can you make the sprite say something different?
+
+- Optional: add `--- challenge ---` blocks
+
+1. Summary
+- Wrap up with a review of what was done or learned
+
+
+--- /task ---
+
+
 ## Other useful tips
 
 --- task ---
