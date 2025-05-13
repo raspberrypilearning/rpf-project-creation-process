@@ -107,13 +107,7 @@ These custom tags affect how the markdown renders in the learning platform:
 
 Used to define **interactive activities or embedded Scratch projects**.
 
-**Structure:**
 
-`--- task ---
-### Activity title
-Instructions and questions
-<iframe src="..."></iframe>
---- /task ---`
 
 
 --- task ---
