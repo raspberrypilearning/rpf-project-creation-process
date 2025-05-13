@@ -82,12 +82,17 @@ print('Hello World!')
 --- task ---
 
 ### Images
-- Add to en-image file in Finder or drag and drop to images folder on the left hand side of VS Code
+- Add your image or screeshot to the en-image file in Finder or drag and drop it into the images folder on the left hand side of VS Code
+
+
+![Image_Folder](images/Image_Folder.png)
+
+
 - Give images simple names with no spaces, always use a hyphen or an underscore
+- Add images using `![alt text for image](path/of/image)`
 - In the square brackets enter the alt text 
 - In the round brackets enter **images/** then select the image you have added from the dropdown options
 - To change the main banner image name your chosen image **banner.png** and drag and drop it into the images folder, this will change the banner image to the one that you’ve added
-- Add images using `![alt text for image](path/of/image)`
 
 --- /task ---
 
