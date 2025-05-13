@@ -34,7 +34,7 @@ We only use level 2 or 3 headings for projects at the Raspberry Pi Foundation.
 
 ### Text Emphasis
 
-- Use ** to bold your text
+- Use ** to bold your text for example `**Hello**`
 - Use * or _ for italics 
 
 **Bold** is used:
