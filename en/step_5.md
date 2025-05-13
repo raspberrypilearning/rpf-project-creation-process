@@ -62,15 +62,15 @@ We only use level 2 or 3 headings for projects at the Raspberry Pi Foundation.
 --- task ---
 
 ### Code Formatting
-- Inline code is wrapped in backticks, like``move 10 steps``
+- Inline code is wrapped in backticks, like `move 10 steps`
 - Scratch block references are written like this:
 
 `Looks`{:class="block3looks"}
 `Sound`{:class="block3sound"}
 
- (These class attributes style the block to colour in the same style as they are in Scratch.)
+- These class attributes style the block to colour in the same style as they are in Scratch
 
- - Longer code examples use triple backticks:
+- Longer code examples use triple backticks:
 
 ```
 print('Hello World!')
@@ -101,9 +101,12 @@ print('Hello World!')
 
 ### Special Tags
 
-These custom tags affect how the markdown renders in the learning platform:
+- These custom tags affect how the markdown renders in the learning platform:
+- Used to define **interactive activities or embedded Scratch projects**
 
-Used to define **interactive activities or embedded Scratch projects**.
+`--- task ---`
+`Add your text here`
+`--- /task ---`
 
 
 --- /task ---
