@@ -185,8 +185,8 @@ Each project should have:
 
 --- task ---
 
-- Use solutions/ folder to include final versions
-- Use resources/ for starter files or assets
+- Use **solutions/** folderto include final versions
+- Use **resources/** for starter files or assets
 
 --- /task ---
 
@@ -203,10 +203,9 @@ Each project should have:
 
 Example below:
 
+`| : - - - | : - - - | : - - - |`
 
 | Header 1 | Header 2 | Header 3 |
-
-`| : - - - | : - - - | : - - - |`
 
 | hello | hi | bye |
 
@@ -218,7 +217,7 @@ Example below:
 ### Adding links
 - Add the name that you want to show into square brackets
 - Add the website (http url) you want to link to in the round brackets
-- You can link to steps internally within your project by adding the step name into the round brackets. However, internal links won't actually work until project has been pushed to master
+- You can link to steps internally within your project by adding the step name into the round brackets. However, internal links won't actually work until your project has been pushed to master
 
 `[GitHub](https://github.com/)`
 
