@@ -159,28 +159,20 @@ Each step typically includes:
 
 ## Other useful tips
 
---- task ---
-
-### Links 
-- In the square brackets enter the text you want to show
-- In the round brackets enter the http url
-
---- /task ---
-
 
 --- task ---
 
 ### Tables
 - Use colons to align columns
 - Use at least 3 dashes to separate each header cell
-- | = pipe key, use this key to create outer lines of the table
+- Use the pipe key to create the outer lines of the table
 
 Example below:
 
 
 | Header 1 | Header 2 | Header 3 |
 
-| : - - - | : - - - | : - - - |
+`| : - - - | : - - - | : - - - |`
 
 | hello | hi | bye |
 
@@ -189,19 +181,23 @@ Example below:
 
 --- task ---
 
-### Internal links
-- Add the name you want to show into square brackets
-- Add the step you want to link to in the round brackets
-- Internal links won't actually work until project has been pushed to master
+### Adding links
+- Add the name that you want to show into square brackets
+- Add the website (http url) you want to link to in the round brackets
+- You can link to steps internally within your project by adding the step name into the round brackets. However, internal links won't actually work until project has been pushed to master
+
+`[GitHub](https://github.com/)`
+
+`[Step 4](step_4.md)`
 
 --- /task ---
 
 
 --- task ---
 
-### To create new step
+### To create a new step
 - In VS Code go to File > New File add ‘step_4.md’ for example and press enter
-- Creates new folder in the en directory
+- This creates a new folder in the en directory
 
 
 ![Create Step](images/Create_Step.png)
