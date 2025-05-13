@@ -1,8 +1,8 @@
-## Markdown tips and style guide
+## Markdown tips
 
 **Markdown** is a programming language that doesn’t require knowledge of HTML and makes it easier to format your text. Here are a few tips to get you started and to understand the Code Club Projects use and style of markdown.
 
-### Markdown and syntax style suide
+## Markdown and syntax style guide
 
 --- task ---
 
@@ -124,6 +124,8 @@ print('Hello World!')
 
 --- /task ---
 
+
+## Other useful tips
 
 --- task ---
 
