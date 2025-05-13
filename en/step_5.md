@@ -51,8 +51,30 @@ We only use level 2 or 3 headings for projects at the Raspberry Pi Foundation.
 --- task ---
 
 ### Bullets and Lists
-Use hyphen - for bullets 
-Use 1. for numbers, you can always put 1. and it will number in order anyway 1. 2. 3. as it doesn't recognise numbers!
+- Use hyphen (-) to create bullet points
+- Use bullet points for goals, steps, or lists of items
+- Use 1. for numbers, you can put 1. everytime and it will number in order anyway 1. 2. 3. as it doesn't recognise numbers!
+- However, numbered lists (1., 2., etc.) are avoided unless order is crucial
+
+--- /task ---
+
+
+--- task ---
+
+### Code Formatting
+- Inline code is wrapped in backticks, like `move 10 steps`.
+- Scratch block references are written like this:
+
+`Looks`{:class="block3looks"}
+`Sound`{:class="block3sound"}
+
+ (These class attributes style the block to colour in the same style as they are in Scratch.)
+
+ - Longer code examples use triple backticks:
+
+```
+print('Hello World!')
+```
 
 --- /task ---
 
