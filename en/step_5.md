@@ -62,7 +62,7 @@ We only use level 2 or 3 headings for projects at the Raspberry Pi Foundation.
 --- task ---
 
 ### Code Formatting
-- Inline code is wrapped in backticks, like `move 10 steps`.
+- Inline code is wrapped in backticks, like``move 10 steps``
 - Scratch block references are written like this:
 
 `Looks`{:class="block3looks"}
