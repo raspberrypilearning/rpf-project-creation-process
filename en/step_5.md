@@ -35,8 +35,8 @@ We only use level 2 or 3 headings for projects at the Raspberry Pi Foundation.
 
 ### Text Emphasis
 
-Use ** to bold your text
-Use * or _ for italics
+Use ** to bold your text `**Bold**`
+Use * or _ for italics `*Italics*`
 
 **Bold** is used:
 - For **menu items**, **button labels**, and **user interface terms** (e.g., **Code**, **Costumes**, **Click**, **Choose a Sprite**).
