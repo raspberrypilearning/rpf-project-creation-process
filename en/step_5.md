@@ -105,7 +105,18 @@ print('Hello World!')
 - Used to define **interactive activities or embedded Scratch projects**
 
 `--- task ---`
-`--- /task ---`
+
+- To wrap content that should not appear in the print version (like interactive components or iframes) use:
+
+`--- no-print ---`
+
+- To insert alternate content (like screenshots or static text) for printed versions of the project use:
+
+`--- print-only ---`
+
+- To mark something as optional or stretch challenge use: 
+
+`--- challenge ---`
 
 
 --- /task ---
