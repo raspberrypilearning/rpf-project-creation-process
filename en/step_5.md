@@ -1,11 +1,12 @@
 ## Markdown tips
 
-**Markdown** is a programming language that doesn’t require knowledge of HTML.
+**Markdown** is a programming language that doesn’t require knowledge of HTML and makes it easier to format your text.
+Below are a few tips to get you started and to understand the Code Club Projects use and style of markdown.
 
 
 --- task ---
 
-### Headings
+### Create Headings
 
 One hash `# Title` will create a level 1 header
 # Title
@@ -19,13 +20,13 @@ Three will create `### Title` will create a level 3 header
 
 We only use level 2 or 3 headings for projects at the Raspberry Pi Foundation.
 
-`## You will make` — Always appears at the top of step_1.md, describing the project goal in plain language.
+- `## You will make` — Always appears at the top of step_1.md, describing the project goal in plain language.
 
 
-`## Introduction`, `## What you will learn`, etc. — Use ## for main sections.
+- `## Introduction`, `## What you will learn`, etc. — Use ## for main your sections.
 
 
-`### and ####` — For subsections, such as activity titles or side explanations.
+- `### and ####` — Use for subsections, such as activity titles or side explanations.
 
 --- /task ---
 
@@ -33,7 +34,17 @@ We only use level 2 or 3 headings for projects at the Raspberry Pi Foundation.
 --- task ---
 
 ### Text Emphasis
-Bold
+
+Use ** to bold your text
+Use * or _ for italics
+
+**Bold** is used:
+- For **menu items**, **button labels**, and **user interface terms** (e.g., **Code**, **Costumes**, **Click**, **Choose a Sprite**).
+- To draw attention to critical instructions or important outcomes.
+
+
+*Italics* are used:
+- Sparingly, for *emphasis*, terms being defined, or gentle guidance.
 
 --- /task ---
 
