@@ -101,11 +101,10 @@ print('Hello World!')
 
 ### Special Tags
 
-- These custom tags affect how the markdown renders in the learning platform:
+- These custom tags affect how the markdown renders in the learning platform
 - Used to define **interactive activities or embedded Scratch projects**
 
 `--- task ---`
-`Add your text here`
 `--- /task ---`
 
 
