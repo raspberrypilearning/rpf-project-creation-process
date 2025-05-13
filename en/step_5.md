@@ -1,4 +1,4 @@
-## Markdown tips
+## Markdown tips and style guide
 
 **Markdown** is a programming language that doesn’t require knowledge of HTML and makes it easier to format your text. Here are a few tips to get you started and to understand the Code Club Projects use and style of markdown.
 
@@ -81,7 +81,7 @@ print('Hello World!')
 
 --- task ---
 
-### Images
+### Media
 - Add your image or screeshot to the en-image file in Finder or drag and drop it into the images folder on the left hand side of VS Code
 
 
@@ -90,9 +90,11 @@ print('Hello World!')
 
 - Give images simple names with no spaces, always use a hyphen or an underscore
 - Add images using `![alt text for image](path/of/image)`
+- Use alt text for all images for accessibility
 - In the square brackets enter the alt text 
 - In the round brackets enter **images/** then select the image you have added from the dropdown options
 - To change the main banner image name your chosen image **banner.png** and drag and drop it into the images folder, this will change the banner image to the one that you’ve added
+- Videos or Scratch embeds are added in `--- task ---` sections using iframes
 
 --- /task ---
 
