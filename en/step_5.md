@@ -106,7 +106,7 @@ These custom tags affect how the markdown renders in the learning platform:
 Used to define **interactive activities or embedded Scratch projects**.
 
 
---- task ---
+--- /task ---
 
 
 --- task ---
