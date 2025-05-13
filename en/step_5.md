@@ -103,11 +103,7 @@ print('Hello World!')
 
 These custom tags affect how the markdown renders in the learning platform:
 
-`--- task ---`
-
 Used to define **interactive activities or embedded Scratch projects**.
-
-
 
 
 --- task ---
