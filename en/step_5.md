@@ -157,6 +157,40 @@ Each step typically includes:
 --- /task ---
 
 
+## Naming and terminology
+
+--- task ---
+
+- Use consistent naming across steps: sprite names, variables, backdrops
+- Prefer age-appropriate terms
+- Explain unfamiliar terms in context
+- Refer to Scratch elements with their exact labels
+
+--- /task ---
+
+
+## Project metadata
+
+--- task ---
+
+Each project should have:
+- **meta.yml** with title, description, age range, and language
+- Optional: **python-translatable.txt**, **scratch-translatable.txt** for translation of code comments or UI text
+
+
+--- /task ---
+
+
+## Extras
+
+--- task ---
+
+- Use solutions/ folder to include final versions
+- Use resources/ for starter files or assets
+
+--- /task ---
+
+
 ## Other useful tips
 
 
