@@ -99,6 +99,28 @@ print('Hello World!')
 
 --- task ---
 
+### Special Tags
+
+These custom tags affect how the markdown renders in the learning platform:
+
+`--- task ---`
+
+Used to define **interactive activities or embedded Scratch projects**.
+
+**Structure:**
+
+`--- task ---
+### Activity title
+Instructions and questions
+<iframe src="..."></iframe>
+--- /task ---`
+
+
+--- task ---
+
+
+--- task ---
+
 ### Links 
 - In the square brackets enter the text you want to show
 - In the round brackets enter the http url
